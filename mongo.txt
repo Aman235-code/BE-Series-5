@@ -1,0 +1,13 @@
+Data Storage:
+Types os DBs - SQL | NOSQL
+
+{
+    age:25
+}
+mongoDB
+Database -> Collections -> Document
+
+CODE                  database
+mongoose.connect -> database create
+model create ->  collection create 
+CREATE -> document create 
